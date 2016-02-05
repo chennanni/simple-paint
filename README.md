@@ -1,1 +1,1 @@
-Paint on the drawing board
+Paint on the drawing board.
