@@ -9,4 +9,4 @@ Paint on the drawing board.
 
 ## Workflow
 
-[simple-paint-workflow.png](img/simple-paint-workflow.png)
+![simple-paint-workflow.png](img/simple-paint-workflow.png)
