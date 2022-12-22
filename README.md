@@ -4,7 +4,7 @@ Paint on the drawing board.
 
 ## Screenshot
 
-![screenshot.png](img/screenshot.png)
+![screenshot.png](img/screenshot.PNG)
 
 ## Run Instruction
 
